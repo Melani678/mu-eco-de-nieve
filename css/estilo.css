@@ -1,0 +1,105 @@
+*{margin: 0px;}
+.cabeza{
+    background-color: snow;
+    border-color: black;
+    width: 150px; height: 150px;
+    border-style: solid;
+    position: absolute;
+    left: 125px;
+    top: 125px;
+    border-radius: 100%;
+}
+.ojo1{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    border-radius: 100%;
+}
+.ojo2{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: relative;
+    top: 25px;
+    left: 90px;
+    border-radius: 100%;
+}
+.nariz{
+    background-color: orange;
+    width: 20px; height: 10px;
+    position: relative;
+    top: 35px;
+    left: 50px;
+    
+}
+.cuerpo{
+    background-color: snow;
+    border-color: black;
+    width: 200px; height: 250px;
+    border-style: solid;
+    position: absolute;
+    left: 105px;
+    top: 278px;
+    border-radius: 100%;
+}
+.cuerpo2{
+    background-color: snow;
+    border-color: black;
+    width: 230px; height: 230px;
+    border-style: solid;
+    position: absolute;
+    left: 90px;
+    top: 470px;
+    border-radius: 100%;
+}
+.brazo1{
+    background-color: brown;
+    width: 20px;
+    height: 180px;
+    position: absolute;
+    left: 80px;
+    top: 350px;
+    transform:rotate(15deg) ;
+}
+.brazo2{
+    background-color: brown;
+    width: 20px;
+    height: 180px;
+    position: absolute;
+    left: 320px;
+    top: 350px;
+    transform:rotate(-15deg) ;
+}
+.boton{
+    background-color: brown;
+    width: 35px; height: 35px;
+    position: relative;
+    top: 30px;
+    left: 75px;
+    border-radius: 100%;
+    border-style: solid;
+    
+}
+.sombrero1{
+    border-color: black;
+    background-color: blue;
+    width: 100px; height: 90px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    border-style: solid;
+}
+.sombrero2{
+    border-color: black;
+    background-color: blue;
+    width: 160px; height: 30px;
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    border-style: solid;
+    border-radius: 50px;
+}
+body{
+    background-color: aquamarine;
+}
